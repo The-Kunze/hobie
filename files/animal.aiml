@@ -20,7 +20,7 @@
 <!--  http://www.alicebot.org -->
 <!--  -->
 
-<category><pattern>WHAT DOES A <set>animal</set> SAY ^</pattern>
+<category><pattern>WHAT DOES aaaA <set>animal</set> SAY ^</pattern>
 <template><srai>SOUND <star/></srai></template>
 </category>
 <category><pattern>WHAT DO <set>animals</set> SAY ^</pattern>
